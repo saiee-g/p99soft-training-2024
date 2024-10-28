@@ -1,0 +1,3 @@
+[submodule "fast_api/demo"]
+	path = fast_api/demo
+	url = https://github.com/saiee-g/ml-with-fastapi.git
