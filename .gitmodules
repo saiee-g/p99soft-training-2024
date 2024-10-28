@@ -4,3 +4,6 @@
 [submodule "lol"]
 	path = lol
 	url = https://github.com/saiee-g/lol.git
+[submodule "demo"]
+	path = demo
+	url = https://github.com/saiee-g/ml-with-fastapi.git
